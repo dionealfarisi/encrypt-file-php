@@ -9,7 +9,7 @@ Program Enkripsi adalah aplikasi sederhana yang memungkinkan Anda mengamankan fi
 1. Pastikan Anda telah menginstal [PHP](https://www.php.net/) dan [Composer](https://getcomposer.org/) di komputer Anda.
 2. Clone repositori ini ke komputer Anda.
 3. Jalankan `composer install` untuk menginstal semua dependensi yang diperlukan.
-4. Kemuadian jalankan `composer require phpseclib/phpseclib`
+4. Kemudian jalankan `composer require phpseclib/phpseclib`
 
 ## Penggunaan
 
